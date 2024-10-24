@@ -345,6 +345,7 @@ button {
     position: absolute;
     top: -60px;
     z-index: -1;
+    padding: 60px;
 }
 
 .image_2 {
